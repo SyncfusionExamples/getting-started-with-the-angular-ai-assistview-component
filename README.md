@@ -1,5 +1,5 @@
 # Getting Started with the Angular AI AssistView Component
-A quick-start project that contains code to create and configure the Syncfusion Angular AI AssistView component. This project also contains code for how to customize the Angular AI AssistView component using a banner template, as well as configuring toolbar settings, prompt suggestions and responses.
+A quick-start project that includes code to create and configure the Syncfusion Angular AI AssistView component. This project also demonstrates how to customize the Angular AI AssistView component using a banner template, as well as how to configure toolbar settings, prompt suggestions, and responses.
  
 Refer to the following documentation to learn about the Angular AI AssistView component:
 
