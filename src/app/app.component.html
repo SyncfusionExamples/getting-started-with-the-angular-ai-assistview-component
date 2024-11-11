@@ -1,0 +1,14 @@
+<div class="aiAssistView">
+  <div #aiAssistViewComponent ejs-aiassistview height="500px" width="600px"
+  (promptRequest)="onPromptRequest($event)"
+  [promptSuggestions]="promptSuggestions"
+  [toolbarSettings]="toolbarSettings">
+  <ng-template #bannerTemplate>
+    <div class="banner-content">
+      <div class="e-icons e-assistview-icon"></div>
+      <h3>AI Assistance</h3>
+      <div>Your everyday AI companion.</div>
+    </div>
+  </ng-template>
+</div>
+</div>
