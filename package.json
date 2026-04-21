@@ -1,6 +1,7 @@
 {
   "name": "myangularapp",
   "version": "0.0.0",
+  "description": "Getting started with the Angular AI AssistView component",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
